@@ -1,0 +1,11 @@
+{
+    "name": "oneShot",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "fun mod for small russian discord server",
+    "dependencies": [
+        "ReturnOfModding-ReturnOfModding-1.0.56",
+        "RoRRModdingToolkit-RoRR_Modding_Toolkit-1.2.8",
+        "MGReturns-ENVY-1.1.1"
+    ]
+}

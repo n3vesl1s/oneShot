@@ -1,0 +1,22 @@
+{
+    "item" : {
+        "oldLens" : {
+            "name" : "Lens from old camera",
+            "pickup" : "Every attack becomes critical. Good item.",
+            "description" : "Every attack gains 100% critical chance (+50% attack damage per stack).",
+            "destination" : "Refuge, \nLibrary, \nfor George",
+            "date" : "2nd year after losing the sun",
+            "story" : "George wanted to repair her old camera, but the package was never delivered to the library.",
+            "priority" : "Standard"
+        },
+        "pancakes" : {
+            "name" : "Pancakes",
+            "pickup" : "A delicious pancakes. Increases attack speed and max HP.",
+            "description" : "Increases attack speed and max HP by 10 (every stage) per stack.",
+            "destination" : "The village by the wheat field, \nSpecially for Niko",
+            "date" : "Day? Month? Year? Ordinary morning...",
+            "story" : "Pancakes baked by mom especially for Niko, but they were never eaten...",
+            "priority" : "Prioritized"
+        }
+    }
+}
