@@ -1,4 +1,4 @@
--- Kafif (white) [BROKEN]
+-- Kafif (white) [BROKEN(rmt problem)]
 
 local sprite = Resources.sprite_load("oneShot", "item/kafif", PATH.."assets/sprites/items/Sprite-0004.png", 1, 16, 16)
 
