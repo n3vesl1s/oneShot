@@ -42,7 +42,7 @@ meat:onAcquire(function(actor, stack)
 end)
 
 item:onKillProc(function(actor, victim, stack)
-    if Helper.chance(1 - 1 / (1 + 0.03 * stack)) then
+    if Helper.chance(1 - 1 / (1 + 0.05 * stack)) then
         actor:heal(actor.maxhp / 2)
     end
 end)
