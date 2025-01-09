@@ -9,6 +9,6 @@ TODO:
 
 --  Small plan
 
-1. fix kafif (RMT is broken)
+1. fix kafif (fixed)
 2. create a remaining items (and write metadata)
 3. start making equipment
